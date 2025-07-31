@@ -1,3 +1,3 @@
-***<p style="text-align:center;">Fit-For-Gamers</p>***
+Fit-For-Gaming
 
 Core concepts and ideas
